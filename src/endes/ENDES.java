@@ -19,6 +19,8 @@ public class ENDES {
         System.out.println("HOLA ESTE ES EL PROGRAMA DE EJEMPLO ");//NO BORRAR
         
         //ESCRIBE AQUI TU NOMBRE
+        System.out.println("Carlos García Rodríguez");
+        System.out.println("Edad "+"22");
     }
 
 }
